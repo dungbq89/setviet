@@ -1,0 +1,6 @@
+_header:
+  enabled: true
+_contentFooter:
+  enabled: true
+_mainMenu:
+  enabled: true
